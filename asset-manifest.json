@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/commerce-app/static/css/main.2b516770.chunk.css",
+    "main.css": "/commerce-app/static/css/main.3cff428a.chunk.css",
     "main.js": "/commerce-app/static/js/main.b74559e9.chunk.js",
     "main.js.map": "/commerce-app/static/js/main.b74559e9.chunk.js.map",
     "runtime-main.js": "/commerce-app/static/js/runtime-main.5f5c4f77.js",
@@ -8,16 +8,16 @@
     "static/js/2.b59c12b9.chunk.js": "/commerce-app/static/js/2.b59c12b9.chunk.js",
     "static/js/2.b59c12b9.chunk.js.map": "/commerce-app/static/js/2.b59c12b9.chunk.js.map",
     "index.html": "/commerce-app/index.html",
-    "precache-manifest.a900766c30123094d4fef595aac79987.js": "/commerce-app/precache-manifest.a900766c30123094d4fef595aac79987.js",
+    "precache-manifest.a4de5a27272d54359515fd479458879d.js": "/commerce-app/precache-manifest.a4de5a27272d54359515fd479458879d.js",
     "service-worker.js": "/commerce-app/service-worker.js",
-    "static/css/main.2b516770.chunk.css.map": "/commerce-app/static/css/main.2b516770.chunk.css.map",
+    "static/css/main.3cff428a.chunk.css.map": "/commerce-app/static/css/main.3cff428a.chunk.css.map",
     "static/js/2.b59c12b9.chunk.js.LICENSE.txt": "/commerce-app/static/js/2.b59c12b9.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/commerce-app/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.5f5c4f77.js",
     "static/js/2.b59c12b9.chunk.js",
-    "static/css/main.2b516770.chunk.css",
+    "static/css/main.3cff428a.chunk.css",
     "static/js/main.b74559e9.chunk.js"
   ]
 }
